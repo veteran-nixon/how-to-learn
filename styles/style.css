@@ -29,6 +29,8 @@
   position: absolute;
   top: 30px;
   left: 64px;
+  width: 183px;
+  height: 32px;
 }
 
 .header__title {
@@ -56,6 +58,8 @@
   position: absolute;
   right: 0;
   bottom: 0;
+  width: 765px;
+  height: 608px;
   z-index: 1;
 }
 
@@ -180,6 +184,8 @@
 }
 
 .feynman__image {
+  width: 867px;
+  height: 637px;
   position: absolute;
   left: 0;
   bottom: 0;
@@ -248,6 +254,8 @@
 }
 
 .kaufman__triangle {
+  width: 877px;
+  height: 877px;
   position: absolute;
   right: -210px;
   top: 0;
@@ -275,6 +283,11 @@
   flex-direction: column;
 }
 
+.logo_place_footer {
+  width: 183px;
+  height: 35px;
+}
+
 .footer__author {
   margin: 18px 0;
   color: white;
@@ -284,7 +297,7 @@
 }
 
 .footer__column-heading {
-  margin-bottom: 20px;
+  margin: 0 auto 20px;
   color: white;
   line-height: 30px;
   font-size: 18px;
