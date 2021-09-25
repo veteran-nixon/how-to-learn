@@ -1,0 +1,8 @@
+.two-columns {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 100px auto 0;
+    /* в макете действительно отсутсвует отступ, но на 6 слайде брифа указан нижний отступ этой секции 100px */
+  }
