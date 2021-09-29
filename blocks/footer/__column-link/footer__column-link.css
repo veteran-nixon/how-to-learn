@@ -5,6 +5,8 @@
     font-weight: normal;
     text-decoration: none;
     margin: 0;
+    opacity: 1;
+    transition: opacity .3s;
   }
 
   .footer__column-link:hover {
