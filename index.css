@@ -1,4 +1,4 @@
-@import url(./vendor/normalize.css);
+@import url(./pages/normalize.css);
 
 /* оформление первого блока страницы header */
 @import url(./blocks/header/header.css);
